@@ -1,0 +1,35 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "E:\\Next-Level-Web-Development\\Mission 3 Be A NoSQL Backend Braniac\\university-management-auth-service\\logs\\winston\\successes\\.d0a3b7d9f9e53dd93686427d97c5302a35548b94-audit.json",
+    "files": [
+        {
+            "date": 1685967490223,
+            "name": "E:\\Next-Level-Web-Development\\Mission 3 Be A NoSQL Backend Braniac\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-05-06-18-success.log",
+            "hash": "c4a01488dccc5c17dcdab3c9e09c52d7a957783a01ba69ee1a7943ecf4be6104"
+        },
+        {
+            "date": 1685970003627,
+            "name": "E:\\Next-Level-Web-Development\\Mission 3 Be A NoSQL Backend Braniac\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-05-06-19-success.log",
+            "hash": "4eede7b31fbaf2cc5195b2a4187afc18f5e23a66a240b46d35393d627fd0368c"
+        },
+        {
+            "date": 1685978205685,
+            "name": "E:\\Next-Level-Web-Development\\Mission 3 Be A NoSQL Backend Braniac\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-05-06-21-success.log",
+            "hash": "c84f53d6422a1c9d93274baf5f80e46445df5b23fd6144272b1deee1e88f8263"
+        },
+        {
+            "date": 1686141948394,
+            "name": "E:\\Next-Level-Web-Development\\Mission 3 Be A NoSQL Backend Braniac\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-07-06-18-success.log",
+            "hash": "195e274f604fb85538cb877beb4ff35d9e97ad62e4098be104e6dc6674887955"
+        },
+        {
+            "date": 1686158440701,
+            "name": "E:\\Next-Level-Web-Development\\Mission 3 Be A NoSQL Backend Braniac\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-07-06-23-success.log",
+            "hash": "3bfacd8facd05cb12150ff14ced36e3b5500f3d885c76b0356354fe0839cdf3e"
+        }
+    ],
+    "hashType": "sha256"
+}
